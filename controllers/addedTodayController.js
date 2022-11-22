@@ -1,4 +1,4 @@
-import AddedTodayModel from "../models/AddedTodayModel"
+import AddedTodayModel from "../models/AddedTodayModel.js"
 
 
 export const AddTodayMed = async (req, res) => {

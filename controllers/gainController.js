@@ -1,4 +1,4 @@
-import gainModel from "../models/gainModel"
+import gainModel from "../models/gainModel.js"
 
 
 export const getgain =async (req, res) => {
